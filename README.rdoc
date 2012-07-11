@@ -32,7 +32,7 @@ Load the schema
                       
 For subsequent database updates, use rake db:migrate
 
-Launch your local host. Avidstarter uses thin (and we think you should, too)
+Launch your local host. Ubersub uses thin (and we think you should, too)
 
   thin start
 

@@ -11,6 +11,8 @@ gem 'haml', '~> 3.1.6'
 gem 'devise'
 gem 'dynamic_form'
 gem 'taps'
+gem 'sqlite3'
+
 #gem 'carrierwave'
 #gem 'rmagick'
 #gem 'fog'

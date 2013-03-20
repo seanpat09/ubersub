@@ -11,7 +11,6 @@ gem 'haml', '~> 3.1.6'
 gem 'devise'
 gem 'dynamic_form'
 gem 'taps'
-gem 'sqlite3'
 
 #gem 'carrierwave'
 #gem 'rmagick'
@@ -35,6 +34,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'factory_girl_rails'
   gem 'shoulda'
+  gem 'sqlite3'
 end
 
 # To use ActiveModel has_secure_password
